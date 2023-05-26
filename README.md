@@ -60,7 +60,7 @@
 
 ### 1.5 AB点导航
 
-![](/home/quan/workspace/robot/company/nav2_demo/images/navigation_ab.jpg)
+![](./images/navigation_ab.jpg)
 
 步骤：
 
